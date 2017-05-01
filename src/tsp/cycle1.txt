@@ -1,0 +1,14 @@
+1
+10
+1s,6a,G
+1s,21a,F
+1s,26a,GG
+2s,34a,HH
+2s,39a,G
+2s,42a,B
+1s,44a,DD
+1s,49a,II
+Bart Complex
+190
+Lisa Complex
+121
